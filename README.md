@@ -4,7 +4,7 @@ Este repositório contém o desenvolvimento **incremental de um processador**, o
 
 O objetivo é documentar e versionar todo o processo de construção do processador, desde os blocos mais básicos até a integração final.
 
----
+
 
 ## 📌 Objetivo do Projeto
 
@@ -13,7 +13,7 @@ O objetivo é documentar e versionar todo o processo de construção do processa
 - Facilitar o entendimento da arquitetura por meio de commits bem definidos
 - Servir como material de estudo, referência ou base para expansões futuras
 
----
+
 
 ## 🧩 Estrutura do Repositório
 
